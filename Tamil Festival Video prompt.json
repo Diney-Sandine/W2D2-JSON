@@ -1,0 +1,144 @@
+{
+  "framework": "SCALE",
+  "title": "Thai Pongal – Celebrating the Harvest, Honouring Our Roots",
+  "video_settings": {
+    "duration": "30 seconds",
+    "aspect_ratio": "16:9",
+    "resolution": "4K",
+    "frame_rate": "24 fps",
+    "video_style": "Cinematic photorealistic cultural documentary",
+    "camera_quality": "Professional cinematic camera",
+    "audio": "Traditional Tamil Pongal festival music with Nadaswaram, Thavil, and natural village ambience"
+  },
+  "Subject": {
+    "primary": "Pongal, the iconic Tamil harvest festival, celebrating the agricultural heritage, traditions, unity, gratitude, and cultural identity of Tamil Nadu.",
+    "elements": [
+      "A traditional clay Pongal pot overflowing with freshly cooked rice and milk",
+      "Tamil women wearing colourful traditional silk sarees and jasmine flowers in their hair",
+      "Tamil men wearing traditional white veshti and shirts",
+      "Beautiful colourful kolam designs drawn with rice flour outside traditional village houses",
+      "Fresh sugarcane stalks arranged around the Pongal celebration",
+      "Farmers celebrating a successful harvest in lush green paddy fields",
+      "Decorated bulls and traditional cattle representing agricultural heritage",
+      "Families gathering together to celebrate Pongal with traditional food and rituals",
+      "Children enjoying traditional village games and festive activities",
+      "Traditional Tamil village houses decorated with mango leaves and festive ornaments"
+    ],
+    "cultural_significance": "Represent Thai Pongal as a celebration of gratitude to the Sun, nature, farmers, cattle, and agricultural prosperity.",
+    "visual_focus": "A beautifully decorated overflowing Pongal pot surrounded by sugarcane, colourful kolam designs, traditional Tamil families, and joyful village celebrations.",
+    "representation": "Authentically portray the four-day Pongal festival: Bhogi, Thai Pongal, Mattu Pongal, and Kaanum Pongal, highlighting Tamil Nadu's rural heritage and community spirit."
+  },
+  "Composition": {
+    "layout": "A cinematic sequence of interconnected scenes depicting a traditional Tamil village during the Pongal festival.",
+    "foreground": "Close-up shots of colourful kolam designs, fresh sugarcane, turmeric plants, traditional clay pots, and women preparing Pongal.",
+    "middle_ground": "Tamil families celebrating together, farmers participating in harvest activities, decorated cattle, and children enjoying traditional village festivities.",
+    "background": "Beautiful traditional Tamil village houses, coconut trees, lush green paddy fields, and a golden sunrise illuminating the countryside.",
+    "visual_flow": "Move naturally from the peaceful village sunrise to the Pongal cooking ceremony, followed by family celebrations, cattle festivities, and a joyful village gathering.",
+    "depth": "Use cinematic foreground details, natural background landscapes, atmospheric lighting, and smooth camera transitions."
+  },
+  "Action": {
+    "timeline": [
+      {
+        "time": "00:00-00:05",
+        "scene": "The Village Awakens",
+        "action": "The sun rises over a traditional Tamil Nadu village. Birds fly across the golden sky. A woman wearing a colourful silk saree draws an intricate kolam outside her house. Sugarcane and festive decorations are visible.",
+        "camera_movement": "Slow aerial establishing shot transitioning into a gentle forward dolly movement.",
+        "mood": "Peaceful, traditional, and welcoming."
+      },
+      {
+        "time": "00:05-00:11",
+        "scene": "The Pongal Preparation",
+        "action": "A family prepares the traditional Pongal pot outdoors. Milk and rice boil over the decorated clay pot. Family members joyfully shout 'Pongalo Pongal!' as the milk overflows.",
+        "camera_movement": "Close-up shot of the boiling pot, followed by a slow cinematic orbit around the celebrating family.",
+        "mood": "Joyful, emotional, and festive."
+      },
+      {
+        "time": "00:11-00:17",
+        "scene": "Harvest and Agricultural Heritage",
+        "action": "Farmers harvest golden paddy fields. Men carry sugarcane while women prepare traditional festive food. Decorated cattle stand proudly in the village.",
+        "camera_movement": "Wide tracking shots across the paddy fields, followed by close-ups of harvesting activities.",
+        "mood": "Grateful, prosperous, and celebratory."
+      },
+      {
+        "time": "00:17-00:23",
+        "scene": "Mattu Pongal Celebrations",
+        "action": "Beautifully decorated bulls and cows are honoured by villagers. Families gather around the cattle, musicians perform with Nadaswaram and Thavil, and children celebrate.",
+        "camera_movement": "Smooth tracking shots capturing cattle decorations, musicians, and the happy expressions of villagers.",
+        "mood": "Energetic, traditional, and culturally rich."
+      },
+      {
+        "time": "00:23-00:30",
+        "scene": "The Spirit of Tamil Nadu",
+        "action": "The entire village comes together in celebration. Women in colourful silk sarees, men in traditional veshti, children, farmers, and elders celebrate together. The scene concludes with a beautifully decorated Pongal pot in the foreground and the village glowing in warm golden sunlight.",
+        "camera_movement": "Slow cinematic pull-back revealing the entire village celebration, ending with a wide aerial view.",
+        "mood": "Proud, emotional, harmonious, and inspiring."
+      }
+    ],
+    "character_movements": "Natural human movements, realistic cooking activities, authentic traditional dance movements, genuine facial expressions, and believable interactions.",
+    "overall_mood": "Joyful, energetic, harmonious, welcoming, and culturally proud."
+  },
+  "Location": {
+    "region": "Tamil Nadu, South India",
+    "setting": "A traditional agricultural village inspired by the fertile Cauvery delta region.",
+    "visual_references": [
+      "Thanjavur agricultural villages",
+      "Traditional Tamil village houses",
+      "Cauvery delta paddy fields",
+      "Traditional village streets",
+      "Coconut plantations",
+      "Rural Tamil Nadu agricultural landscapes"
+    ],
+    "environment": [
+      "Fresh green paddy fields",
+      "Golden harvested crops",
+      "Traditional tiled-roof houses",
+      "Coconut and banana trees",
+      "Village courtyards",
+      "Natural sunrise and open countryside"
+    ]
+  },
+  "Aesthetic": {
+    "style": "Ultra-realistic cinematic filmmaking with authentic cultural documentary storytelling.",
+    "colour_palette": [
+      "Vibrant turmeric yellow",
+      "Traditional silk red",
+      "Leaf green",
+      "Earthy brown",
+      "Harvest gold",
+      "Warm sunrise orange"
+    ],
+    "lighting": "Natural golden-hour sunlight, warm festive illumination, realistic shadows, and cinematic lighting transitions.",
+    "camera_language": "Combination of aerial drone shots, wide-angle establishing shots, medium shots, macro close-ups, slow tracking movements, and cinematic pull-backs.",
+    "motion_quality": "Smooth natural movement, realistic human interactions, consistent character appearances, accurate object physics, and seamless scene transitions.",
+    "audio_design": {
+      "background_music": "Traditional Tamil folk instrumental music featuring Nadaswaram, Thavil, and festive percussion.",
+      "ambient_sounds": [
+        "Village birds chirping",
+        "Gentle breeze through coconut trees",
+        "Milk boiling in the Pongal pot",
+        "Farmers working in agricultural fields",
+        "Traditional festive music",
+        "Villagers cheering Pongalo Pongal"
+      ],
+      "voice": "Natural joyful Tamil voices during the Pongal celebration."
+    },
+    "atmosphere": "A beautiful celebration of Tamil agricultural heritage, family unity, gratitude, and cultural identity.",
+    "quality": "4K ultra-high-definition, photorealistic textures, cinematic depth of field, professional colour grading, and realistic lighting.",
+    "visual_tone": "Authentic, inspiring, colourful, emotional, festive, and timeless."
+  },
+  "Negative_Prompt": [
+    "Avoid stereotypical representations of Tamil people",
+    "Avoid inaccurate traditional clothing",
+    "Avoid unrelated regional cultural elements",
+    "Avoid distorted human faces and body proportions",
+    "Avoid unnatural hand and finger movements",
+    "Avoid unrealistic boiling liquid and overflowing milk physics",
+    "Avoid floating objects and inconsistent object movements",
+    "Avoid inconsistent character appearances between scenes",
+    "Avoid artificial-looking village environments",
+    "Avoid excessive visual effects",
+    "Avoid cartoonish appearance",
+    "Avoid abrupt camera movements and jump cuts",
+    "Avoid text, subtitles, watermarks, and logos"
+  ]
+}

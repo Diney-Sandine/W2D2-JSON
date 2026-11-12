@@ -1,0 +1,94 @@
+{
+  "framework": "SCALE",
+  "title": "The Cultural Heritage of Tamil Nadu - From Villages to Cities",
+  "Subject": {
+    "primary": "A vibrant visual celebration of Tamil Nadu's diverse culture, traditions, people, and heritage",
+    "elements": [
+      "Traditional Tamil village farmers working in lush green paddy fields",
+      "Women wearing colourful Kanchipuram silk sarees and traditional jasmine flowers in their hair",
+      "Men wearing white veshti and shirts",
+      "Bharatanatyam dancers performing classical dance",
+      "Karagattam folk dancers balancing decorated pots",
+      "Traditional village bullock carts and Jallikattu bulls",
+      "Artisans creating beautiful Tanjore paintings and bronze sculptures",
+      "Traditional Tamil fishermen and coastal communities",
+      "Modern city professionals and students representing contemporary Tamil Nadu",
+      "Colourful temple gopurams and traditional Tamil architecture"
+    ]
+  },
+  "Composition": {
+    "layout": "A seamless panoramic composition connecting rural villages and modern cities",
+    "foreground": "Traditional village life, farmers, folk dancers, artisans, and women in colourful traditional attire",
+    "middle_ground": "Ancient Tamil temples, bustling village markets, traditional houses, and cultural celebrations",
+    "background": "Modern Chennai skyline, urban infrastructure, IT parks, and coastal landscapes",
+    "visual_flow": "A natural transition from peaceful rural landscapes on the left to vibrant urban life on the right",
+    "depth": "Rich environmental details with multiple layers of cultural activities"
+  },
+  "Action": {
+    "activities": [
+      "Farmers harvesting paddy and working in agricultural fields",
+      "Women creating colourful kolam designs outside traditional homes",
+      "Families celebrating Pongal and cooking sweet Pongal in clay pots",
+      "Bharatanatyam and folk dancers performing traditional dances",
+      "Musicians playing Nadaswaram and Thavil",
+      "Artisans crafting traditional handicrafts",
+      "People celebrating temple festivals with decorated chariots",
+      "Fishermen returning from the sea with their daily catch",
+      "Young professionals walking through modern city streets",
+      "Families participating in vibrant community celebrations"
+    ],
+    "mood": "Joyful, energetic, harmonious, welcoming, and culturally proud"
+  },
+  "Location": {
+    "region": "Tamil Nadu, South India",
+    "rural_references": [
+      "Thanjavur agricultural villages",
+      "Chettinad heritage houses",
+      "Madurai temple surroundings",
+      "Kongu Nadu countryside",
+      "Rameswaram coastal fishing villages"
+    ],
+    "urban_references": [
+      "Chennai metropolitan skyline",
+      "Coimbatore modern industrial city",
+      "Madurai urban streets",
+      "Tiruchirappalli temple city"
+    ],
+    "landscape": [
+      "Lush green paddy fields",
+      "Coconut groves",
+      "Traditional village streets",
+      "Ancient Dravidian temples",
+      "Bay of Bengal coastline",
+      "Modern urban buildings"
+    ]
+  },
+  "Aesthetic": {
+    "style": "Ultra-realistic cinematic cultural photography blended with detailed artistic storytelling",
+    "colour_palette": [
+      "Vibrant turmeric yellow",
+      "Temple red",
+      "Traditional silk gold",
+      "Leaf green",
+      "Earthy brown",
+      "Ocean blue",
+      "Warm sunset orange"
+    ],
+    "lighting": "Warm golden-hour sunlight with natural shadows and vibrant festive lighting",
+    "details": "Highly detailed traditional clothing, authentic architecture, realistic human expressions, intricate jewellery, and cultural objects",
+    "atmosphere": "A beautiful blend of ancient Tamil heritage and modern Tamil identity",
+    "quality": "8K resolution, photorealistic textures, cinematic depth, professional composition",
+    "aspect_ratio": "16:9",
+    "visual_tone": "Authentic, inspiring, colourful, timeless, and emotionally engaging"
+  },
+  "Negative_Prompt": [
+    "Avoid stereotypical representations of Tamil people",
+    "Avoid inaccurate traditional clothing",
+    "Avoid mixing unrelated Indian regional cultural elements",
+    "Avoid distorted faces, hands, and body proportions",
+    "Avoid artificial-looking architecture",
+    "Avoid excessive visual clutter",
+    "Avoid cartoonish appearance",
+    "Avoid text, captions, watermarks, and logos"
+  ]
+}
